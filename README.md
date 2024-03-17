@@ -11,7 +11,7 @@ If you use this dataset in your work, please cite it as follows:
 @misc{3dshapes18,
   title={3D Shapes Dataset},
   author={Burgess, Chris and Kim, Hyunjik},
-  howpublished={https://github.com/deepmind/3dshapes-dataset/},
+  howpublished={https://github.com/google-deepmind/3d-shapes/},
   year={2018}
 }
 ```
